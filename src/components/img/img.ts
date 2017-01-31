@@ -9,7 +9,7 @@ import { Platform } from '../../platform/platform';
 /**
  * @name Img
  * @description
- * Two of the biggest cuprits of scroll jank is starting up a new HTTP
+ * Two of the biggest culprits of scroll jank is starting up a new HTTP
  * request, and rendering images. These two reasons is largely why
  * `ion-img` was created. The standard HTML `img` element is often a large
  * source of these problems, and what makes matters worse is that the app
